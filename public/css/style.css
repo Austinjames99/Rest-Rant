@@ -43,6 +43,9 @@ nav a:hover {
   color: lightblue;
   text-decoration: none;
 }
+form {
+  display: inline;
+}
 
 .inactive {
   color: gray;
